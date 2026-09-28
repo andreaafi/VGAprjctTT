@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+A basic NAND latch
 
 ## How to test
 
-Explain how to use your project
+Test the two inputs and follow the truth table in order to see how the cell works
 
 ## External hardware
 
