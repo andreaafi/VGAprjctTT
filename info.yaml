@@ -2,7 +2,7 @@
 # Tiny Tapeout project information
 project:
   title:        "VGAprjctTT"      # Project title
-  author:       "Andrea Polanco"      # Your name
+  author:       "Andrea"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "TT logo in yellow background"      # One line description of what your project does
   language:     "Verilog" # other examples include SystemVerilog, Amaranth, VHDL, etc
